@@ -229,3 +229,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+#GLM docs
+Evolution/Evolution/glm-0.9.5.3/glm/doc
